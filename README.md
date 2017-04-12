@@ -5,7 +5,6 @@ gui.py usage:<br>
 ```bash
 python3 gui.py file/path.img
 ```
-<br><br>
 seam_carve_test.py usage:<br>
 ```
 python3 seam_carve_test.py [--base|--full] input/directory/
