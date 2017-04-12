@@ -3,11 +3,11 @@ This is just a simple implementation of the [seam carving algorithm](https://en.
 <P>
 <P>
 gui.py usage:
-```bash
+```
 python3 gui.py file/path.img
 ```
 <P>
 seam_carve_test.py usage
-```bash
+```
 python3 seam_carve_test.py [--base|--full] input/directory/
 ```
